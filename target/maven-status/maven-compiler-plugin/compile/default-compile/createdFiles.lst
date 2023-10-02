@@ -1,0 +1,6 @@
+com\example\demo\user\UserRepository.class
+com\example\demo\user\Userego.class
+com\example\demo\user\UserController.class
+com\example\demo\user\UserService.class
+com\example\demo\user\UserConfig.class
+com\example\demo\Demo1Application.class
